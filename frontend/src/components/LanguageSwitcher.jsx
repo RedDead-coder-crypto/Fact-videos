@@ -1,0 +1,1 @@
+// LanguageSwitcher Beispiel (siehe Chat für vollen Code)
