@@ -1,0 +1,1 @@
+// App.jsx Beispiel (siehe Chat für vollen Code)
