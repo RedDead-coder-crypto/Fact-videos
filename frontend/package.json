@@ -1,0 +1,11 @@
+
+{
+  "name": "ai-fact-video-generator-frontend",
+  "version": "1.0.0",
+  "main": "src/App.jsx",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "axios": "^1.6.0"
+  }
+}
