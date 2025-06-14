@@ -1,1 +1,3 @@
-# Fact-videos
+# AI Fact Video Generator
+
+Setup-Anleitung folgt...
