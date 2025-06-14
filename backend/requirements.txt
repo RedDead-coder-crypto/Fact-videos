@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+moviepy
+python-dotenv
+openai
+elevenlabs
+pillow
